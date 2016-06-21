@@ -1,0 +1,3 @@
+[submodule "vlad-test-source"]
+	path = vlad-test-source
+	url = https://github.com/vladlo/vlad_test_submodule.git
